@@ -1,6 +1,7 @@
 {
 	"strings":
 	{
+  		"OBJECTIVE_TITLE" : "目标:",
 		"OBJECTIVE_FIND_TELEPORTER": "找到并激活 <style=cDeath>传送点 <sprite name=\"TP\" tint=1></style>",
 		"OBJECTIVE_CHARGE_TELEPORTER": "站在传送点充能区为 <style=cDeath>传送点 <sprite name=\"TP\" tint=1></style>充能 ({0}%)",
 		"OBJECTIVE_CHARGE_TELEPORTER_OOB": "进入 <style=cDeath>传送点充能区！</style> ({0}%)",
