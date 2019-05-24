@@ -11,8 +11,8 @@
 	"BARREL1_NAME": "桶",
 	"BARREL1_CONTEXT": "打开桶",
 	
-	"LOCKBOX_NAME": "上锁的破箱子",
-	"LOCKBOX_CONTEXT": "打开上锁的破箱子",
+	"LOCKBOX_NAME": "锈蚀盒子",
+	"LOCKBOX_CONTEXT": "打开上锁的锈蚀盒子",
 	
 	"EQUIPMENTBARREL_NAME": "装备盒",
 	"EQUIPMENTBARREL_CONTEXT": "打开装备盒",
@@ -24,11 +24,11 @@
 	"CHEST1_NAME": "箱子",
 	"CHEST1_CONTEXT": "打开箱子",
 
-	"CHEST1_STEALTHED_NAME": "被遮住的箱子",
-	"CHEST1_STEALTHED_CONTEXT": "打开被遮住的箱子",
+	"CHEST1_STEALTHED_NAME": "隐形箱子",
+	"CHEST1_STEALTHED_CONTEXT": "打开隐形箱子",
 
-	"CHEST2_NAME": "大箱子",
-	"CHEST2_CONTEXT": "打开大箱子",
+	"CHEST2_NAME": "大型箱子",
+	"CHEST2_CONTEXT": "打开大型箱子",
 
 	"GOLDCHEST_NAME": "传奇宝箱",
 	"GOLDCHEST_CONTEXT": "打开传奇宝箱",
@@ -52,11 +52,11 @@
 	"DUPLICATOR_MILITARY_CONTEXT": "使用军科级打印机",
 
 	//[LUNAR STUFF],
-	"LUNAR_CHEST_NAME" : "月亮豆荚",
-	"LUNAR_CHEST_CONTEXT" : "打开月亮豆荚",
+	"LUNAR_CHEST_NAME" : "月亮荚",
+	"LUNAR_CHEST_CONTEXT" : "打开月亮荚",
 
-	"LUNAR_TERMINAL_NAME" : "月亮花",
-	"LUNAR_TERMINAL_CONTEXT" : "打开月亮花",
+	"LUNAR_TERMINAL_NAME" : "月亮苞",
+	"LUNAR_TERMINAL_CONTEXT" : "打开月亮苞",
 
 	"BAZAAR_UPGRADE_LUNAR_NAME" : "石板",
 	"BAZAAR_UPGRADE_LUNAR_CONTEXT" : "永久升级道具商店",
@@ -67,11 +67,11 @@
 	"BAZAAR_UPGRADE_DRONE_NAME" : "石板",
 	"BAZAAR_UPGRADE_DRONE_CONTEXT" : "永久升级无人机商店",
 
-	"BAZAAR_CAULDRON_NAME" : "大药锅",
-	"BAZAAR_CAULDRON_CONTEXT" : "合成道具",
+	"BAZAAR_CAULDRON_NAME" : "坩埚",
+	"BAZAAR_CAULDRON_CONTEXT" : "重铸道具",
 
-	"NEWT_STATUE_NAME" : "蝾螈祭坛",
-	"NEWT_STATUE_CONTEXT" : "向蝾螈祭坛捐钱",
+	"NEWT_STATUE_NAME" : "纽特祭坛",
+	"NEWT_STATUE_CONTEXT" : "向纽特祭坛捐钱",
 
 	"MSOBELISK_NAME" : "时空尖碑",
 	"MSOBELISK_CONTEXT" : "抹除你们的存在",
@@ -81,13 +81,13 @@
 	//[SHRINES],
 	"SHRINE_HEALING_NAME": "森林祭坛",
 	"SHRINE_HEALING_CONTEXT": "向森林祭坛献上贡品",
-	"SHRINE_HEALING_USE_MESSAGE_2P": "<style=cShrine>你发现身边笼罩着令人安心的治愈之力，这使你充满了决心</color>",
-	"SHRINE_HEALING_USE_MESSAGE": "<style=cShrine>{0} 召来了森林的治愈之力</color>",
+	"SHRINE_HEALING_USE_MESSAGE_2P": "<style=cShrine>你感受到了森林温暖的治愈之力</color>",
+	"SHRINE_HEALING_USE_MESSAGE": "<style=cShrine>{0} 感受到了森林温暖的治愈之力</color>",
 	
 	"SHRINE_BLOOD_NAME": "鲜血祭坛",
 	"SHRINE_BLOOD_CONTEXT": "向鲜血祭坛献上贡品",
-	"SHRINE_BLOOD_USE_MESSAGE_2P": "<style=cShrine>你感到体内一阵灼痛，你获得了${1}</color>",
-	"SHRINE_BLOOD_USE_MESSAGE": "<style=cShrine>{0} 向鲜血祭坛献上鲜血，获得了${1}</color>",
+	"SHRINE_BLOOD_USE_MESSAGE_2P": "<style=cShrine>你感觉到一阵灼热的疼痛，你获得了${1}</color>",
+	"SHRINE_BLOOD_USE_MESSAGE": "<style=cShrine>{0} 感觉到一阵灼热的疼痛，获得了${1}</color>",
 
 	"SHRINE_CHANCE_NAME": "机遇祭坛",
 	"SHRINE_CHANCE_CONTEXT": "向机遇祭坛献上贡品",
@@ -98,15 +98,15 @@
 
 	"SHRINE_BOSS_NAME": "山丘祭坛",
 	"SHRINE_BOSS_CONTEXT": "向山丘祭坛祈祷",
-	"SHRINE_BOSS_USE_MESSAGE_2P": "<style=cShrine>你已受邀进入山之挑战</color>",
-	"SHRINE_BOSS_USE_MESSAGE": "<style=cShrine>{0} 引领你们进入山之挑战</color>",
-	"SHRINE_BOSS_BEGIN_TRIAL": "<style=cShrine>现在，让山之挑战开始吧！</style>",
-	"SHRINE_BOSS_END_TRIAL": "<style=cShrine>你已证明你的勇气，这是给予你们的奖励！</style>",
+	"SHRINE_BOSS_USE_MESSAGE_2P": "<style=cShrine>你得到了山之挑战的邀请</color>",
+	"SHRINE_BOSS_USE_MESSAGE": "<style=cShrine>{0} 得到了山之挑战的邀请</color>",
+	"SHRINE_BOSS_BEGIN_TRIAL": "<style=cShrine>山之挑战……开始！</style>",
+	"SHRINE_BOSS_END_TRIAL": "<style=cShrine>你的勇武得到了奖赏！</style>",
 
 	"SHRINE_RESTACK_NAME": "秩序祭坛",
 	"SHRINE_RESTACK_CONTEXT": "向秩序祭坛献上贡品",
-	"SHRINE_RESTACK_USE_MESSAGE_2P": "<style=cShrine>世界的秩序已重写你的命运</color>",
-	"SHRINE_RESTACK_USE_MESSAGE": "<style=cShrine>{0} 接受了秩序的修正</color>",
+	"SHRINE_RESTACK_USE_MESSAGE_2P": "<style=cShrine>你被……整序了</color>",
+	"SHRINE_RESTACK_USE_MESSAGE": "<style=cShrine>{0} 被……整序了</color>",
 
 	"SHRINE_GOLDSHORES_NAME": "黄金祭坛",
 	"SHRINE_GOLDSHORES_CONTEXT": "向黄金祭坛献上祭品。",
@@ -114,7 +114,7 @@
 	"SHRINE_COMBAT_NAME": "战斗祭坛",
 	"SHRINE_COMBAT_CONTEXT": "向战斗祭坛祈祷",
 	"SHRINE_COMBAT_USE_MESSAGE_2P": "<style=cShrine>你召唤了一大堆{1}</color>",
-	"SHRINE_COMBAT_USE_MESSAGE": "<style=cShrine>{0} 向战斗祭坛祈祷，召唤了一大堆{1}</color>",
+	"SHRINE_COMBAT_USE_MESSAGE": "<style=cShrine>{0} 召唤了一大堆{1}</color>",
 
 	"GOLDTOTEM_NAME": "Halycon信标",
 	"GOLDTOTEM_CONTEXT": "重建Halycon信标",
