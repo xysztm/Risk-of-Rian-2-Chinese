@@ -38,16 +38,19 @@
 		"WEEKLY_RUN_NO_ENTRY" : "您必须完成棱镜挑战才能查看其他用户的成绩。",
 		"WEEKLY_RUN_NEXT_CYCLE_COUNTDOWN_FORMAT" : "棱镜挑战 - 下一个挑战将在 {0:00}:{1:00}:{2:00} 之后到来",
 		"WEEKLY_RUN_DESCRIPTION" :	"“棱镜挑战”允许玩家们挑战某一固定关卡的最快记录\n\n纪录<style=cWorldEvent>前10%</style>的玩家目前暂时不会获得任何奖励。",
+		"WEEKLY_RUN_RANK" : "Rank",
+		"WEEKLY_RUN_NAME" : "Name",
+		"WEEKLY_RUN_TIME" : "Time",
 
 		"CHARSELECT_RETURN": "返回",
-		"DIFFICULTY_EASY_NAME": "毛毛细雨",
+		"DIFFICULTY_EASY_NAME": "细雨",
 		"DIFFICULTY_EASY_DESCRIPTION": "为新手准备的难度，没有哭泣和绝望，这里只有欢声笑语。",
 
-		"DIFFICULTY_NORMAL_NAME": "倾盆大雨",
+		"DIFFICULTY_NORMAL_NAME": "暴雨",
 		"DIFFICULTY_NORMAL_DESCRIPTION": "这是游玩这个游戏的最佳难度！面对这些强大的敌人，让我们看看你究竟有多大能耐吧！",
 
 
-		"DIFFICULTY_HARD_NAME": "暴风骤雨",
+		"DIFFICULTY_HARD_NAME": "季风",
 		"DIFFICULTY_HARD_DESCRIPTION": "硬核玩家专属！这个星球充满了痛苦和绝望，你会死的很惨。",
 		
 		"USER_PROFILE_DELETE_HEADER": "删除档案",
@@ -115,5 +118,19 @@
 		"LEADERBOARDS" : "排行榜",
 		"LEADERBOARDS_GLOBAL" : "全球",
 		"LEADERBOARDS_FRIENDS" : "好友",
+
+		"PROFILE_TITLE" : "Select a Profile",
+		"PROFILE_CREATE_NEW" : "Create New..."
+		"PROFILE_ENTER" : "Enter",
+		"PROFILE_SELECT" : "Select",
+		"PROFILE_DEL" : "Del",
+		"PROFILE_DELETE" : "Delete",
+		"PROFILE_CREATE_PROFILE" : "Create Profile",
+		"PROFILE_ADD" : "Add",
+		
+		"PAUSE_RESUME" : "Resume",
+		"PAUSE_SETTINGS" : "Settings",
+		"PAUSE_QUIT_TO_MENU" : "Quit To Menu",
+		"PAUSE_QUIT_TO_DESKTOP" : "Quit To Desktop",
 	}
 }
