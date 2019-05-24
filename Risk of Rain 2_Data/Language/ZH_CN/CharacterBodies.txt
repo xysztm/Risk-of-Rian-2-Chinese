@@ -108,7 +108,7 @@
 	"CLAYBOSS_BODY_SUBTITLE": "贪婪的共生体",
 	"TITAN_BODY_NAME": "巨石泰坦",
 	"TITAN_BODY_SUBTITLE": "万恶之源",
-	"TITANGOLD_BODY_NAME": "奥雷利奥尼特"",
+	"TITANGOLD_BODY_NAME": "奥雷利奥尼特",
 	"TITANGOLD_BODY_SUBTITLE": "巨大的淘金者",
 	"VAGRANT_BODY_NAME": "游荡者",
 	"VAGRANT_BODY_SUBTITLE": "温柔的守护者",
@@ -119,20 +119,20 @@
 	"IMPBOSS_BODY_NAME": "魔精霸主",
 	"IMPBOSS_BODY_SUBTITLE": "红世之主",
 	//[DRONE]
-	"DRONE_GUNNER_BODY_NAME": "机枪无人机",
-	"DRONE_HEALING_BODY_NAME": "医疗无人机",
-	"DRONE_BACKUP_BODY_NAME": "歼击无人机",
-	"DRONE_MISSILE_BODY_NAME": "导弹无人机",
-	"DRONE_MEGA_BODY_NAME": "TC-280 原型机",
+	"DRONE_GUNNER_BODY_NAME": "Gunner Drone",
+	"DRONE_HEALING_BODY_NAME": "Healing Drone",
+	"DRONE_BACKUP_BODY_NAME": "Strike Drone",
+	"DRONE_MISSILE_BODY_NAME": "Missile Drone",
+	"DRONE_MEGA_BODY_NAME": "TC-280 Prototype",
 
 	//[INTERACTORS/BODY]
-	"TURRET1_BODY_NAME": "固定机枪炮塔",
+	"TURRET1_BODY_NAME": "Gunner Turret",
 
 	//[MISC]
-	"ENGITURRET_BODY_NAME": "TR12 自动炮台",
+	"ENGITURRET_BODY_NAME": "Engineer Turret",
 	"POT2_BODY_NAME": "罐子",
 	"SQUIDTURRET_BODY_NAME": "乌贼炮台,
 	"POTMOBILE_BODY_NAME": "Potmobile",
-	"SHOPKEEPER_BODY_NAME": "纽特",
+	"SHOPKEEPER_BODY_NAME": "纽特"",
 	}
 }
