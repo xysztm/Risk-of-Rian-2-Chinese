@@ -48,7 +48,7 @@
 	"HUNTRESS_PRIMARY_NAME": "猛烈射击",
 	"HUNTRESS_PRIMARY_DESCRIPTION" : "发射一根自动追踪箭，对怪物造成 150% 伤害，<i>可以在冲刺时使用。</i>",
 	"HUNTRESS_SECONDARY_NAME": "激光回旋镖",
-	"HUNTRESS_SECONDARY_DESCRIPTION" : "掷出一柄自动跟踪回旋镖，它会在怪物间来回弹跳最多 <style=cIsDamage>6</style> 次，基础伤害为 <style=cIsDamage>250% 伤害</style>，每次弹跳会增加 <style=cIsDamage>10% 伤害。</style>",
+	"HUNTRESS_SECONDARY_DESCRIPTION" : "扔出一枚自动跟踪回旋镖，它会在怪物间来回弹跳最多 <style=cIsDamage>6</style> 次，基础伤害为 <style=cIsDamage>250% 伤害</style>，每次弹跳会增加 <style=cIsDamage>10% 伤害。</style>",
 	"HUNTRESS_UTILITY_NAME": "闪烁",
 	"HUNTRESS_UTILITY_DESCRIPTION" : "<style=cIsUtility>瞬间消失</style>然后向前方位移一段距离后<style=cIsUtility>现身。</style>",
 	"HUNTRESS_SPECIAL_NAME": "流星箭雨",
