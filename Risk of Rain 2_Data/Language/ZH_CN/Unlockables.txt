@@ -1,6 +1,7 @@
 {
 	"strings":
 	{
+		"NEW_UNLOCKABLE" : "全新",
 		"LOCKED" : "已锁定",
 		"UNLOCKED_FORMAT" : "已解锁：{0}",
 		
