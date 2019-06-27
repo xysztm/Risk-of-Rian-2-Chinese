@@ -7,6 +7,7 @@
 	"ELITE_MODIFIER_FIRE": "烈焰{0}",
 	"ELITE_MODIFIER_LIGHTNING": "过载{0}",
 	"ELITE_MODIFIER_ICE": "冰霜{0}",
+	"ELITE_MODIFIER_POISON" : "石绿{0}",
 
 	//[CHARACTER]
 	"COMMANDO_BODY_NAME": "突击步兵",
@@ -46,22 +47,24 @@
 	
 	"HUNTRESS_BODY_NAME": "女猎手",
 	"HUNTRESS_PRIMARY_NAME": "猛烈射击",
-	"HUNTRESS_PRIMARY_DESCRIPTION" : "发射一根自动追踪箭，对怪物造成 150% 伤害，<i>可以在冲刺时使用。</i>",
-	"HUNTRESS_SECONDARY_NAME": "激光回旋镖",
-	"HUNTRESS_SECONDARY_DESCRIPTION" : "扔出一枚自动跟踪回旋镖，它会在怪物间来回弹跳最多 <style=cIsDamage>6</style> 次，基础伤害为 <style=cIsDamage>250% 伤害</style>，每次弹跳会增加 <style=cIsDamage>10% 伤害。</style>",
+	"HUNTRESS_PRIMARY_DESCRIPTION" : "发射一支追踪箭，对怪物造成 <style=cIsDamage>150%的伤害</style>。<i>可以在冲刺时使用。</i>",
+	"HUNTRESS_SECONDARY_NAME": "激光月刃",
+	"HUNTRESS_SECONDARY_DESCRIPTION" : "投掷一把追踪月刃，它会在怪物间来回弹射最多 <style=cIsDamage>6</style> 次，初始造成 <style=cIsDamage>250%的伤害</style>，每次弹射伤害增加 <style=cIsDamage>10%</style>。",
 	"HUNTRESS_UTILITY_NAME": "闪烁",
-	"HUNTRESS_UTILITY_DESCRIPTION" : "<style=cIsUtility>瞬间消失</style>然后向前方位移一段距离后<style=cIsUtility>现身。</style>",
+	"HUNTRESS_UTILITY_DESCRIPTION" : "<style=cIsUtility>瞬间消失</style>然后向前方位移一段距离后<style=cIsUtility>现身</style>。",
 	"HUNTRESS_SPECIAL_NAME": "流星箭雨",
 	"HUNTRESS_SPECIAL_DESCRIPTION" : "跳至空中，对目标区域降下箭雨，<style=cIsUtility>减速</style>其中所有怪物的移速并对其造成<style=cIsDamage>每秒 225% 伤害。</style>",
 	"HUNTRESS_DESCRIPTION": "女猎手是一名高移速高伤害但非常脆弱的远距离攻击型幸存者<style=cSub>\r\n\r\n< ! > 请记住猛烈射击是唯一可以在冲刺时使用的技能，这使得你可以一边保持高速移动一边把你的猎物全部干翻\r\n\r\n< ! > 闪烁和流星箭雨是非常有用的位移技能，可以用于主动接近猎物，也可以从密集的攻击中逃脱\r\n\r\n< ! > 激光回旋镖可以很快地同时解决多只猎物\r\n\r\n< ! > 流星箭雨是超高伤害的群控技能，用的好可以有效牵制住那些又快又肉的猎物。<\/style>\r\n",
 
 	"MAGE_BODY_NAME": "巧匠",
+	"MAGE_PASSIVE_NAME" : "环境防护服",
+	"MAGE_PASSIVE_DESCRIPTION" : "按住跳跃键可以使工匠<style=cIsUtility>悬浮在空中</style>。",
 	"MAGE_PRIMARY_NAME" : "火焰箭",
-	"MAGE_PRIMARY_DESCRIPTION" : "射出火焰飞箭造成 <style=cIsDamage>200% 伤害</style> 并<style=cIsDamage>引燃</style>怪物，可以存储4个。</style>",
+	"MAGE_PRIMARY_DESCRIPTION" : "射出火焰飞箭造成 <style=cIsDamage>200%的伤害</style> 并<style=cIsDamage>引燃</style>怪物，可以存储4个。</style>",
 	"MAGE_SECONDARY_LIGHTNING_NAME": "纳米充能炸弹",
 	"MAGE_SECONDARY_LIGHTNING_DESCRIPTION" : "充能发射一枚纳米炸弹造成 <style=cIsDamage>400%-1200%</style> 伤害并<style=cIsDamage>眩晕</style>全部怪物。",
 	"MAGE_UTILITY_ICE_NAME": "绝对零度",
-	"MAGE_UTILITY_ICE_DESCRIPTION" : "创造一排冰墙，<style=cIsUtility>冻结</style>触碰到冰墙的怪物并对其产生 100% 伤害. 低生命值的怪物在冻结状态可以<style=cIsDamage>一击必杀。</style>",
+	"MAGE_UTILITY_ICE_DESCRIPTION" : "创造一排冰墙，<style=cIsUtility>冻结</style>触碰到冰墙的怪物并对其产生 <style=cIsDamage>100%的伤害</style>。 低生命值的怪物在冻结状态可以<style=cIsDamage>一击必杀。</style>",
 	"MAGE_SPECIAL_FIRE_NAME": "烈焰喷射",
 	"MAGE_SPECIAL_FIRE_DESCRIPTION" : "喷射烈焰灼烧面前的怪物，造成 <style=cIsDamage>1700% 伤害。</style>",
 	"MAGE_DESCRIPTION": "巧匠是一名超高输出型幸存者，很适合拿来跟精英怪和BOSS激情对射\r\n\r\n< ! > 火焰箭射速很快，但充能要很久 - 尝试将其与其他技能交替使用\r\n\r\n< ! > 纳米充能炸弹直接命中怪物可以很大程度上扭转战局\r\n\r\n< ! > 冰冻住的怪物可以在低生命值直接处决，好好用这一特性对付坦克型怪物\r\n\r\n< ! > 不要忘了巧匠没有任何防御性技能，所以合理的团队定位和防御型道具是生存的关键！<\/style>\r\n",
@@ -80,6 +83,19 @@
 	"TOOLBOT_SPECIAL_NAME": "模式切换",
 	"TOOLBOT_SPECIAL_DESCRIPTION" : "在<style=cIsDamage>全自动钉枪</style>与<style=cIsDamage>钢筋电磁炮</style>中切换主要火力。",
 	"TOOLBOT_DESCRIPTION": "MUL-T是极具破坏力的幸存者，它拥有各种工具来应对各种局面<style=cSub>\r\n\r\n< ! > 全自动钉枪拥有极高的输出，但射程极短，是个风险与利益并存的武器\r\n\r\n< ! > 攻城模式既可以用来从怪物群中逃走，也可以对大型怪物造成有效输出\r\n\r\n< ! > 爆破震撼弹可以将很大一群怪物控制很久，可以帮你的队伍制造更多输出机会\r\n\r\n< ! > 合理利用模式切换技能，使用射速低的穿孔炮对付残血的怪物，同时使用全自动钉枪保持超高输出。<\/style>\r\n",
+	
+	"TREEBOT_BODY_NAME" : "REX",
+	"TREEBOT_PASSIVE_NAME" : "自然毒素",
+	"TREEBOT_PASSIVE_DESCRIPTION" : 	"特定攻击能够造成<style=cIsDamage>弱化</style>，降低移动速度，护甲和伤害。",
+	"TREEBOT_PRIMARY_NAME" : "命令：注射",
+	"TREEBOT_PRIMARY_DESCRIPTION" : "发射3个注射器，造成<style=cIsDamage>3x80%伤害</style>。最后一个注射器会造成<style=cIsDamage>弱化</style>并<style=cIsHealing>将所施加伤害的30%转化为生命值。</style>",
+	"TREEBOT_SECONDARY_NAME" : "种子大炮",
+	"TREEBOT_SECONDARY_DESCRIPTION" : "<style=cIsHealth>消耗15%当前生命值。</style>向天空发射一枚炮弹，造成<style=cIsDamage>450%伤害</style>。",
+	"TREEBOT_UTILITY_NAME" : "命令：驱逐",
+	"TREEBOT_UTILITY_DESCRIPTION" : "发射一次音爆，<style=cIsUtility>击退</style>并<style=cIsDamage>弱化</style>所有命中的敌人。如果你正处于空中，会被<style=cIsUtility>向后推去</style>。",
+	"TREEBOT_SPECIAL_NAME" : "触须生长",
+	"TREEBOT_SPECIAL_DESCRIPTION" : "<style=cIsHealth>消耗25%当前生命值。</style>发射一朵会<style=cIsDamage>扎根</style>并造成<style=cIsDamage>200%伤害</style>的花朵。<style=cIsHealing>每命中一个目标便会对你进行一次治疗。</style>",
+	"TREEBOT_DESCRIPTION" : "REX是一种半机械，半植物的构造体，以生命值为代价从远处攻击敌人。虽然单独的机械和植物都无法在这颗星球上存活下来，但彼此融合之后情况就不一样了。<style=cSub>\r\n\r\n< ! >自然毒素能够对强敌进行削弱，保护你和你的队友。\r\n\r\n< ! >种子大炮可在任何距离使用，而且冷却时间非常短，但要注意你的剩余生命值！\r\n\r\n< ! >命令：驱逐可以用于击退敌人，也能用于将飞行敌人推到墙上，进而造成击杀。r\n\r\n< ! >精准的触须生长能够增加REX的存活能力，束缚多名敌人就能恢复施放技能消耗的生命值。<style=cSub>\r\n",
 	
 	"BANDIT_BODY_NAME": "强盗",
 	"HAND_BODY_NAME": "HAN-D",
@@ -100,6 +116,7 @@
 	"CLAY_BODY_NAME" : "黏土人",
 	"HERMIT_CRAB_BODY_NAME" : "寄居蟹",
 	"BELL_BODY_NAME" : "黄铜钟",
+	"CLAYBRUISER_BODY_NAME" : "黏土圣堂武士",
 
 	//[BOSS]
 	"BEETLEQUEEN_BODY_NAME": "甲虫女王",
@@ -108,7 +125,7 @@
 	"CLAYBOSS_BODY_SUBTITLE": "贪婪的共生体",
 	"TITAN_BODY_NAME": "巨石泰坦",
 	"TITAN_BODY_SUBTITLE": "万恶之源",
-	"TITANGOLD_BODY_NAME": "奥雷利奥尼特",
+	"TITANGOLD_BODY_NAME": "奥利雷奥尼特",
 	"TITANGOLD_BODY_SUBTITLE": "巨大的淘金者",
 	"VAGRANT_BODY_NAME": "游荡者",
 	"VAGRANT_BODY_SUBTITLE": "温柔的守护者",
@@ -118,12 +135,16 @@
 	"ELECTRICWORM_BODY_SUBTITLE": "警醒者",
 	"IMPBOSS_BODY_NAME": "魔精霸主",
 	"IMPBOSS_BODY_SUBTITLE": "红世之主",
+	"GRAVEKEEPER_BODY_NAME" : "森林守护者",
+	"GRAVEKEEPER_BODY_SUBTITLE" : "幽魂牧者",
 	//[DRONE]
 	"DRONE_GUNNER_BODY_NAME": "Gunner Drone",
 	"DRONE_HEALING_BODY_NAME": "Healing Drone",
 	"DRONE_BACKUP_BODY_NAME": "Strike Drone",
 	"DRONE_MISSILE_BODY_NAME": "Missile Drone",
 	"DRONE_MEGA_BODY_NAME": "TC-280 Prototype",
+	"EQUIPMENTDRONE_BODY_NAME" : "Equipment Drone",
+	"FLAMEDRONE_BODY_NAME" : "Incinerator Drone",
 
 	//[INTERACTORS/BODY]
 	"TURRET1_BODY_NAME": "Gunner Turret",
@@ -132,7 +153,8 @@
 	"ENGITURRET_BODY_NAME": "Engineer Turret",
 	"POT2_BODY_NAME": "罐子",
 	"SQUIDTURRET_BODY_NAME": "乌贼炮台,
-	"POTMOBILE_BODY_NAME": "Potmobile",
-	"SHOPKEEPER_BODY_NAME": "纽特"",
+	"POTMOBILE_BODY_NAME": "便携式罐子",
+	"SHOPKEEPER_BODY_NAME": "纽特",
+	"URCHINTURRET_BODY_NAME" : "孔雀石海胆"",
 	}
 }

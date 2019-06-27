@@ -119,18 +119,24 @@
 		"LEADERBOARDS_GLOBAL" : "全球",
 		"LEADERBOARDS_FRIENDS" : "好友",
 
-		"PROFILE_TITLE" : "Select a Profile",
-		"PROFILE_CREATE_NEW" : "Create New..."
-		"PROFILE_ENTER" : "Enter",
-		"PROFILE_SELECT" : "Select",
-		"PROFILE_DEL" : "Del",
-		"PROFILE_DELETE" : "Delete",
-		"PROFILE_CREATE_PROFILE" : "Create Profile",
-		"PROFILE_ADD" : "Add",
+		"PROFILE_TITLE" : "选择档案",
+		"PROFILE_CREATE_NEW" : "创建新......",
+		"PROFILE_ENTER" : "进入",
+		"PROFILE_SELECT" : "选择",
+		"PROFILE_DEL" : "删除",
+		"PROFILE_DELETE" : "删除",
+		"PROFILE_CREATE_PROFILE" : "创建档案",
+		"PROFILE_ADD" : "添加",
 		
-		"PAUSE_RESUME" : "Resume",
-		"PAUSE_SETTINGS" : "Settings",
-		"PAUSE_QUIT_TO_MENU" : "Quit To Menu",
-		"PAUSE_QUIT_TO_DESKTOP" : "Quit To Desktop",
+		"PAUSE_RESUME" : "返回",
+		"PAUSE_SETTINGS" : "设置",
+		"PAUSE_QUIT_TO_MENU" : "退出至菜单",
+		"PAUSE_QUIT_TO_DESKTOP" : "退出至桌面",
+		
+		"SPECTATING_NAME_FORMAT" : "正在观战：{0}",
+		"QUIT_RUN_CONFIRM_DIALOG_TITLE" : "离开游戏？",
+		"QUIT_RUN_CONFIRM_DIALOG_BODY_SINGLEPLAYER" : "确定离开游戏？",
+		"QUIT_RUN_CONFIRM_DIALOG_BODY_CLIENT" : "确定离开游戏？你会抛弃你的队友。",
+		"QUIT_RUN_CONFIRM_DIALOG_BODY_HOST" : "你是本局游戏的房主，退出会<style=cDeath>结束所有玩家的游戏进程。</style>确定退出？",
 	}
 }

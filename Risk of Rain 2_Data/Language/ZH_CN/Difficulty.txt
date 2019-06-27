@@ -11,5 +11,6 @@
 	"DIFFICULTY_BAR_7": "我看到你了",
 	"DIFFICULTY_BAR_8": "我来找你了",
 	"DIFFICULTY_BAR_9": "哈哈哈哈哈哈哈哈",
+	"STAGE_COUNT_FORMAT" : "<style=cSub>关卡\n</style> {0}",
 	}
 }

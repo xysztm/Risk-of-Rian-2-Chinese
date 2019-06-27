@@ -59,10 +59,10 @@
 	"EQUIPMENT_PASSIVEHEALING_DESC":"获得一个木灵随从，给予你 <style=cIsHealing>每秒 1.5% 最大生命值</style> 的治疗，可以将其给予队友为其恢复 <style=cIsHealing>10% 最大生命值</style>。",
 
 	"EQUIPMENT_AFFIXRED_NAME": "火灵之卓越",
-  "EQUIPMENT_AFFIXRED_PICKUP": "化身 <style=cIsDamage>烈焰之躯</style>！移动时留下火焰痕迹，<style=cIsDamage>点燃</style> 接触到的敌人。所有攻击也会 <style=cIsDamage>点燃</style> 敌人。",
+	"EQUIPMENT_AFFIXRED_PICKUP": "化身 <style=cIsDamage>烈焰之躯</style>！移动时留下火焰痕迹，<style=cIsDamage>点燃</style> 接触到的敌人。所有攻击也会 <style=cIsDamage>点燃</style> 敌人。",
 	"EQUIPMENT_AFFIXRED_DESC": "",
 
-	"EQUIPMENT_AFFIXBLUE_NAME": "寂静之雷袭",
+	"EQUIPMENT_AFFIXBLUE_NAME": "雷袭之寂静",
 	"EQUIPMENT_AFFIXBLUE_PICKUP": "化身 <style=cIsDamage>雷电之躯</style>！将 <style=cIsHealing>生命值的50%</style> 转化为 <style=cIsHealing>护盾</style>,击中敌人时附加 <style=cIsDamage>闪电炸弹</style>。",
 	"EQUIPMENT_AFFIXBLUE_DESC": "",
 
@@ -70,10 +70,14 @@
 	"EQUIPMENT_AFFIXGOLD_PICKUP": "化身幸运之躯！",
 	"EQUIPMENT_AFFIXGOLD_DESC": "",
 
-	"EQUIPMENT_AFFIXWHITE_NAME": "刺骨之拥抱",
-	"EQUIPMENT_AFFIXWHITE_PICKUP": "化身 <style=cIsDamage>冰雪之躯</style>！<style=cIsUtility>减速</style> 攻击到的敌人。",
+	"EQUIPMENT_AFFIXWHITE_NAME": "拥怀之刺骨",
+	"EQUIPMENT_AFFIXWHITE_PICKUP": "化身 <color=#dbf8fc>冰霜之躯</color>！<style=cIsUtility>减速</style> 攻击到的敌人。",
 	"EQUIPMENT_AFFIXWHITE_DESC": "",
-
+	
+	"EQUIPMENT_AFFIXPOISON_NAME" : "神性之驳斥",
+	"EQUIPMENT_AFFIXPOISON_PICKUP" : "化身<color=#fff319腐化之躯</color>！",
+	"EQUIPMENT_AFFIXPOISON_DESC" : "",
+  
 	"EQUIPMENT_BURNNEARBY_NAME" : "地狱火灵药",
 	"EQUIPMENT_BURNNEARBY_PICKUP" : "灼伤周围的一切……<color=#FF7F7F>包括你和你的队友</color>。\n",
 	"EQUIPMENT_BURNNEARBY_DESC" : "灼伤8米内的所有敌我单位. 对其造成 <style=cIsDamage>每秒 5% 的最大生命值的灼伤伤害</style>，队友受到 <style=cIsDamage>0.5倍</style> 的伤害, 敌方受到 <style=cIsDamage>24倍</style> 。",
@@ -90,5 +94,13 @@
 	"EQUIPMENT_CRIPPLEWARD_NAME" : "悲伤雕像",
 	"EQUIPMENT_CRIPPLEWARD_PICKUP" : "扔下一个使周围所有人陷入虚弱的雕像……可以再次拾取。",
 	"EQUIPMENT_CRIPPLEWARD_DESC" :  "所有范围内人物将被<style=cIsUtility>减速 50% </style> 并且 <style=cIsDamage> 减少 20 护甲</style>。",
+	 "EQUIPMENT_GATEWAY_NAME" : "古怪花瓶",
+	"EQUIPMENT_GATEWAY_PICKUP" : "在两个地点之间建立一条量子隧道。",
+	"EQUIPMENT_GATEWAY_DESC" : "建立一条不超过<style=cIsUtility>1000米</style>的<style=cIsUtility>量子隧道</style>。持续30秒。",
+	"EQUIPMENT_TONIC_NAME" : "尖晶强心剂",
+	"EQUIPMENT_TONIC_PICKUP" : "立即获得大幅全属性加成。<color=#FF7F7F>有机率产生降低所有属性的副作用。</color>",
+	"EQUIPMENT_TONIC_DESC" : 	"喝下强心剂，立即获得属性加成，持续15秒。<style=cIsDamage>伤害</style>提高<style=cIsDamage>+100%</style>。<style=cIsDamage>攻击速度</style>提高<style=cIsDamage>+70%</style>。<style=cIsDamage>护甲</style>提高<style=cIsDamage>+20</style>。<style=cIsHealing>最大生命值</style>提高<style=cIsHealing>+50%</style>。<style=cIsHealing>被动生命值再生速度</style>提高<style=cIsHealing>+300%</style>。<style=cIsUtility>移动速度</style>提高<style=cIsUtility>+30%</style>。\t\n\n当强心剂效果消失后，你有<style=cIsHealth>20%</style>的机率产生<style=cIsHealth>强心剂副作用，你的所有属性将会</style>降低<style=cIsHealth>5%</style><style=cStack>（每层-5%。）</style>",
+	"EQUIPMENT_QUESTVOLATILEBATTERY_NAME" : "燃料组件",
+	"EQUIPMENT_QUESTVOLATILEBATTERY_PICKUP" : "看样子可以用来供电。<color=#FF7F7F>极度不稳定......</color>",
 	}
 }

@@ -157,6 +157,9 @@
 
 		"OPTION_DAMAGENUMBERS": "伤害数字",
 		"OPTION_DAMAGENUMBERS_DESCRIPTION": "攻击怪物时显示怪物实际收到的伤害浮动数字。",
+		
+		"OPTION_SPRINT_SENSITIVITY_REDUCTION" : "奔跑灵敏度降低",
+		"OPTION_SPRINT_SENSITIVITY_REDUCTION_DESCRIPTION" : "启用后会在奔跑时降低输入的灵敏度。",
 
 		"OPTION_HUD": "游戏内HUD",
 		"OPTION_HUD_DESCRIPTION": "启动游戏内HUD，包括生命值、道具图标、技能图标。",

@@ -12,6 +12,7 @@
 	"ITEM_SYRINGE_NAME": "士兵强心剂",
 	"ITEM_SYRINGE_PICKUP": "增加攻击速度。",
 	"ITEM_SYRINGE_DESC": "增加 <style=cIsDamage>15% <style=cStack>(每个道具递 +15%)</style></style> 的 <style=cIsDamage>攻击速度</style>。",
+	"ITEM_SYRINGE_LORE" : "\"虽然我不喜欢药物......但是，人生实在是太艰难了，每次开门时都必须微笑并点头。干杯！\"\r\n\r\n-信号回声，UES触点之光\r\n",
 
 	"ITEM_BEAR_NAME": "艰难时刻",
 	"ITEM_BEAR_PICKUP": "有几率抵挡一次伤害",
@@ -20,24 +21,24 @@
 	
 	"ITEM_BEHEMOTH_NAME": "卓越巨兽",
 	"ITEM_BEHEMOTH_PICKUP": "你所有的攻击都会产生爆炸！",
-	"ITEM_BEHEMOTH_DESC": "你的所有攻击会产生一个半径 <style=cIsDamage>4米 </style> <style=cStack>(每个道具递 +1.5米)</style> 的 <style=cIsDamage>爆炸</style> ，给予范围内敌人 <style=cIsDamage>60% 伤害</style> 。", 
+	"ITEM_BEHEMOTH_DESC": "你的所有攻击会产生一个半径 <style=cIsDamage>4米</style> <style=cStack>(每个道具递增加1.5米)</style>的<style=cIsDamage>爆炸</style> ，给予范围内敌人总量 <style=cIsDamage>60%的伤害</style> 。", 
 
 	"ITEM_MISSILE_NAME": "空对地导弹 Mk. 1",
 	"ITEM_MISSILE_PICKUP": "有几率发射一枚导弹",
-	"ITEM_MISSILE_DESC": "击中敌人时有10%几率发射一枚导弹造成 <style=cStack>300%×道具数</style> 伤害", 
+	"ITEM_MISSILE_DESC": "击中敌人时有10%几率发射一枚导弹造成总量 <style=cStack>300%</style><style=cStack>(每个道具递 +300%)</style> 的伤害", 
 
 	"ITEM_EXPLODEONDEATH_NAME": "瓶中鬼火",
 	"ITEM_EXPLODEONDEATH_PICKUP": "击杀时引爆敌人。",
 	"ITEM_EXPLODEONDEATH_DESC": "击杀敌人时，生成一道半径 <style=cIsDamage>12米</style> <style=cStack>(每个道具递 +2.4米)</style> 的 <style=cIsDamage>岩浆柱</style> ，并造成 <style=cIsDamage>350%</style> <style=cStack>(每个道具递 +280% )</style> 伤害。", 
 
 	"ITEM_DAGGER_NAME": "仪式匕首",
-	"ITEM_DAGGER_PICKUP": "击杀敌人后释放自动追踪的匕首",
-	"ITEM_DAGGER_DESC": "击杀敌人后释放 <style=cIsDamage>3</style> <style=cStack>(每个道具递 +3)</style> 把 <style=cIsDamage>自动跟踪的匕首</style> ，每把造成 <style=cIsDamage>150%</style> 基础伤害。", 
+	"ITEM_DAGGER_PICKUP": "击杀敌人后释放数把自动追踪的匕首",
+	"ITEM_DAGGER_DESC": "击杀敌人后释放 <style=cIsDamage>3</style> <style=cStack>(每个道具递 +3)</style> 把 <style=cIsDamage>自动跟踪的匕首</style> ，每把造成 <style=cIsDamage>150%</style> <style=cStack>(+150% per stack)</style>的基础伤害。", 
 	"ITEM_DAGGER_LORE": "硫磺的味道弥漫在空气中。\r\n\r\n“哦天哪，它们离我们太近了，它们已经抓住Hitchcock了，哦我的老天。”\r\n\r\n“找到那个……那把匕首，就在我的背包里，快点”\r\n\r\n“我没看到……哦我找到了！这是什么鬼，这玩意不会有用的，Marion。我到底要怎么用这玩意去……？哦天哪！它们把他撕成了碎片……”\r\n\r\n“你必须……必须要杀掉我，啊！快杀掉我，用这个杀掉我！”\r\n\r\n“什么？你在说什么鬼东西？”\r\n\r\n“是的，这是唯一的方法了，快点！”\r\n\r\n“你在说什么鬼话？快停下来！”\r\n\r\n“这是拥有魔力的小刀，它会保护我们，她会保佑我们的。但在那之前你必须要用这把刀杀掉我。”\r\n\r\n“不，不要让我来做这件事，哦我的天哪。”\r\n\r\n“你……必须这么，我已经见过这个东西的效果了，这是唯一的方法——它们已经靠的很近了，你必须用它杀了我，快杀了我！”\r\n\r\n“对不起，Marion，我真的很抱歉，我不觉着……”\r\n\r\n“快点！现在就杀了我！现在马上杀掉我！快！杀！掉！我！杀……”",
 	
 	"ITEM_TOOTH_NAME": "怪物之牙",
 	"ITEM_TOOTH_PICKUP": "击杀敌人后掉落治疗球",
-	"ITEM_TOOTH_DESC": "击杀敌人会掉落一个 <style=cIsHealing>治疗球</style> ，可以回复 <style=cIsHealing>4 <style=cStack>(每个道具递 +4)</style> 生命值</style>。", 
+	"ITEM_TOOTH_DESC": "击杀敌人会掉落一个 <style=cIsHealing>治疗球</style> ，可以回复 <style=cIsHealing>6 <style=cStack>(每个道具递 +6)</style> 生命值</style>。", 
 
 	"ITEM_CRITGLASSES_NAME": "眼镜匠的眼镜",
 	"ITEM_CRITGLASSES_PICKUP": "有几率触发“暴击”，造成双倍伤害",
@@ -53,15 +54,15 @@
  
 	"ITEM_CHAINLIGHTNING_NAME": "尤克里里",
 	"ITEM_CHAINLIGHTNING_PICKUP": "……同时，并且他的音乐带来了电闪雷鸣",
-	"ITEM_CHAINLIGHTNING_DESC": "击中敌人时有 <style=cIsDamage>25%</style> 几率触发 <style=cIsDamage>连锁闪电</style>，对半径 <style=cIsDamage>20米</style> <style=cStack>(每个道具递 +2米)</style> 范围内的 <style=cIsDamage>3 <style=cStack>(每个道具递 +2)</style></style> 只敌人分别造成 <style=cIsDamage>80%</style> 伤害。",
+	"ITEM_CHAINLIGHTNING_DESC": "击中敌人时有 <style=cIsDamage>25%</style> 几率触发 <style=cIsDamage>连锁闪电</style>，对半径 <style=cIsDamage>20米</style> <style=cStack>(每个道具递 +2米)</style> 范围内的 <style=cIsDamage>3 <style=cStack>(每个道具递 +2)</style></style> 只敌人分别造成总量 <style=cIsDamage>80%</style> 的伤害。",
 
 	"ITEM_SEED_NAME": "吮吸之种",
 	"ITEM_SEED_PICKUP": "攻击造成伤害时回复生命值",
 	"ITEM_SEED_DESC": "对敌人造成伤害时 <style=cIsHealing>回复</style> 你 <style=cIsHealing>1点 <style=cStack>(每个道具递 +1点)</style> 生命值</style>。", 
 
 	"ITEM_ICICLE_NAME": "寒霜遗物",
-	"ITEM_ICICLE_PICKUP": "击杀敌人时自己的身边会生成冰柱",
-	"ITEM_ICICLE_DESC": "击杀敌人时身边生成<style=cIsDamage>3 层冰柱</style> 造成 <style=cIsDamage>3x33% 伤害</style>。", 
+	"ITEM_ICICLE_PICKUP": "击杀敌人时生成一道围绕你的冰雪风暴。",
+	"ITEM_ICICLE_DESC": "<style=cIsDamage>冰雪风暴</style>攻击附近的敌人，造成<style=cIsDamage>每秒600%的伤害</style>。<style=cIsDamage>每达成一次击杀</style>，风暴的半径都会扩大<style=cIsDamage>1米。最高为</style><style=cIsDamage>6米</style><style=cStack>（每层增加6米）。</style>", 
 
 	"ITEM_GHOSTONKILL_NAME": "欢愉面具",
 	"ITEM_GHOSTONKILL_PICKUP": "杀死敌人时有几率生成幽灵",
@@ -156,16 +157,17 @@
 
 	"ITEM_BOUNCENEARBY_NAME": "感知肉钩",
 	"ITEM_BOUNCENEARBY_PICKUP": "有几率钩住附近所有敌人。",
-	"ITEM_BOUNCENEARBY_DESC": "<style=cIsDamage>20%</style> <style=cStack>(每个道具递 +20%)</style> 几率在命中敌人时 <style=cIsDamage>发射自动跟踪的屠钩</style> ，对最多 <style=cIsDamage>10</style> <style=cStack>(每个道具递 +5)</style> 个敌人造成 <style=cIsDamage>100% 伤害</style>。\n\n<style=cStack>实际几率：100%-100%/(100%+20%×道具数)</style>",
+	"ITEM_BOUNCENEARBY_DESC": "<style=cIsDamage>20%</style> <style=cStack>(每个道具递 +20%)</style> 几率在命中敌人时 <style=cIsDamage>发射自动跟踪的屠钩</style> ，对最多 <style=cIsDamage>10</style> <style=cStack>(每个道具递 +5)</style> 个敌人造成总量 <style=cIsDamage>100%的伤害</style>。",
 	"ITEM_BOUNCENEARBY_LORE": "‘当人工智能变得越来越普遍时，许多公司都掀起了‘智能’热潮，其中包含了智能门、智能灯、智能咖啡机、智能剪草机、智能吸尘器、智能床上用品、智能厨刀还有其他的一些家居品。在经过一系列的骇人听闻的智能家电诉讼后，很多产品又重回了传统路线’\r\n\r\n——《为什么聪明一种愚蠢？》第七部\r\n",
 
 	"ITEM_FIREWORK_NAME": "集束烟花",
-	"ITEM_FIREWORK_PICKUP": "打开箱子时向附近的敌人发射烟花。",
-	"ITEM_FIREWORK_DESC": "打开箱子时 <style=cIsDamage>发射 8 <style=cStack>(每个道具递 +4)</style> 束烟火</style>，造成 <style=cIsDamage>300%</style> 基础伤害。",
+	"ITEM_FIREWORK_PICKUP": "激活一个可交互的物品时向周围的敌人发射烟花。",
+	"ITEM_FIREWORK_DESC" : "激活可交互目标会<style=cIsDamage>发射8枚<style=cStack>（每层增加4枚）</style>烟花</style>，造成<style=cIsDamage>300%</style>的伤害。",
+	"ITEM_FIREWORK_LORE" : "\"嘿，纪念日快乐！r\n\r\n你真以为我会忘了？\r\n\r\n啊，在我们之间，我一直以为我才是那个迟钝的人。拜托，我当然不会忘！好吧，我不会让一个小小的外星死亡星球毁掉我们的夜晚。对吧？嘘，看吧。看看吧。没问题的。看着就行。你会喜欢上它的 - 你肯定会。然后我们就回家。\r\n\r\n你可以一直闭着眼睛。只需要聆听。啊 - 它来了！倒数五......四......三......二......一......！\"\r\n",
 
 	"ITEM_BANDOLIER_NAME": "子弹带",
-	"ITEM_BANDOLIER_PICKUP": "有几率在击杀时掉落重置冷却时间的弹药袋。",
-	"ITEM_BANDOLIER_DESC": "击杀敌人有 <style=cIsUtility>18%</style> <style=cStack>(每个道具递 +10%)</style> 几率掉落弹药带，拾取 <style=cIsUtility>重置所有技能冷却</style>。\n\n<style=cStack>实际几率：100%-100%/(³√(道具数+1)×100%)</style>",
+	"ITEM_BANDOLIER_PICKUP" : "击杀时有一定几率掉落一个可重置全部技能冷却时间的弹药包。",
+	"ITEM_BANDOLIER_DESC" : "击杀时有<style=cIsUtility>18%</style>+<style=cStack>（每层10%）</style>机率掉落一个<style=cIsUtility>可重置所有技能冷却时间</style>的弹药包。",
 
 	"ITEM_STUNCHANCEONHIT_NAME": "眩晕手雷",
 	"ITEM_STUNCHANCEONHIT_PICKUP": "攻击敌人有几率使敌人眩晕。",
@@ -177,8 +179,9 @@
 	"ITEM_LUNARDAGGER_LORE" : "<style=cMono>\n========================================\n====   MyBabel 机 器 语 言 翻 译 程 序   ====\n====     [Version 12.45.1.009 ]   ======\n========================================\n正 在 尝 试 翻 译 … <100000000 轮循环>\n正 在 尝 试 翻 译 … <100000000 轮循环>\n正 在 尝 试 翻 译 … <100000000 轮循环>\n正 在 尝 试 翻 译 … <50912157 轮循环>\n暂 停 中…\n目 前 只 能 显 示 部 分 结 果，确 认 吗 ？Y/N\nY\n================================</style>\n成对\n\n这是来自[月球]内核处的，没有具体结构的玻璃，在以飘渺的声音鸣叫了三回之后停了下来。\n\n我们将时间混到它的材质中，两段时间，我们与<他>的时间，这是<他>唯一想要让我们支付的代价，<他>用着神明才会知道的设计，将玻璃折叠与重塑。\n\n<他>用那些不知有多少数量的巨大的手当中的一只手拿着它，我们注入到其中的时间在<他>那紧握的手中展开，快速爆发，肌肉以2倍速度收缩。以2倍的目的性，用2倍有序但复杂的手法，将一切折叠起来，在[?]上成对回环。随着时间耗尽，<他>停了下来。\n\n<他> 将一栋建筑割裂成了千万份。\n\n但时间对任何人都是平等的，微小的碎片开始成对散开，肌肉开始重新舒展，全都以2倍速度运作，这是压缩时间的代价，但<他>有无穷无尽的时间。\n\n<style=cMono>\n================================\n继 续 尝 试 翻 译 ？ Y/N\nY</style>\n",
 
 	"ITEM_GOLDONHIT_NAME": "脆性王冠",
-	"ITEM_GOLDONHIT_PICKUP": "击中敌人获得金钱……<color=#FF7F7F>但是被击中时会损失金钱</color>。\n",
-	"ITEM_GOLDONHIT_DESC": "<style=cIsUtility>30%</style>×伤害系数（伤害系数请参考‘震撼手雷’） 几率在攻击敌人时获得 <style=cIsUtility>2×道具数×难度系数</style> 金钱，而自身受到伤害时，系统会计算 道具数量×当前金钱量×计算后扣除的生命值/最大生命值 与 未经过道具Buff计算的原始伤害数值×道具数量 两个数值，取最大的数值作为扣除金钱量（也就是说就算用熊挡住了200伤害，但还是会扣200×道具数的金钱）",
+	"ITEM_GOLDONHIT_PICKUP" : "命中敌人即可获得金钱……<color=#FF7F7F>但被命中时也会失去金钱。</color>\n",
+	"ITEM_GOLDONHIT_DESC" : "<style=cIsUtility>命中时有30%的机率</style>获得<style=cIsUtility>3<style=cStack>个（每层增加3个）</style>金钱</style>。你可以选择：<style=cIsHealth>损失的金钱数</style>相当于你被命中数值的<style=cIsHealth>100%<style=cStack>（每层增加100%）</style></style>，或者按百分比损失金钱，数值相当于损失最大生命值的<style=cIsHealth>100%<style=cStack>（每层增加100%）</style></style>。系统会选择以上两个数值中的较高者。",
+	"ITEM_GOLDONHIT_LORE" : "一场可怜的狂欢。\r\n\r\n他们的所作所为终将导致灭亡。阿法利亚的沙丘子民：在对寄生之潮的狂热崇拜中迷失了自我。利莫里亚：注定要死去，被它们舔舐干净，那群甲壳质怪物，行走的死亡，你为什么要把它们带到家里来？它们就不该活下来。\r\n\r\n我已经观察了你数个世纪了，从我的化石中，每个世纪，你的自负都令我感到恶心。是你将那群害虫邀请至自己的家园。臭虫、老鼠、怪物，毫无节制的生物，每个都是导致星球毁灭的罪魁祸首。真可笑，你将它们待为贵宾，就像孩子一样，需要救助和保护。\r\n\r\n她应该为我去死，她的天赋放在你身上就是一种浪费。\r\n\r\n亲爱的兄弟，我们打算什么开始讨论你的谎言？你为什么阻止你的贵宾离开？为了试验？你为何要建造高大的城墙与城门？如果你的职责是保护，为什么要造具有攻击性的建筑？它们不过是你收藏的玩物。奴隶贩子，守门者，囤积者。\r\n\r\n你的死亡是命中注定的，当你死亡，你一定会死亡，我会在尽头等待着你。我已经等待了数百万年，那颗星球......是我的。",
 
 	"ITEM_SHIELDONLY_NAME": "超绝",
 	"ITEM_SHIELDONLY_PICKUP": "增加最高生命值上限，并将生命值全部转换为护盾。",
@@ -213,18 +216,18 @@
 	"ITEM_SECONDARYSKILLMAGAZINE_DESC": "你的 <style=cIsUtility>次要技能</style> 增加 <style=cIsUtility>+1</style> <style=cStack>(每个道具递 +1)</style> 次充能。",
 	
 	"ITEM_STICKYBOMB_NAME": "粘性炸弹",
-	"ITEM_STICKYBOMB_PICKUP": "在攻击时有几率将一枚炸弹粘在敌人上。",
-	"ITEM_STICKYBOMB_DESC": "<style=cIsDamage>5%</style> (每个道具递 +2.5%) 几率使击中敌人时附加一个 <style=cIsDamage>炸弹</style> , <style=cIsDamage>炸弹引爆</style> 造成 <style=cIsDamage>250%</style> 伤害 <style=cStack>(每个道具递 +125%)</style>。",
+	"ITEM_STICKYBOMB_PICKUP" : "命中时有一定几率在敌人身上安放炸弹。",
+	"ITEM_STICKYBOMB_DESC" : "命中时有<style=cIsDamage>5%</style><style=cStack>（每层增加2.5%）</style>的机率在敌人身上放置一颗<style=cIsDamage>炸弹</style>，爆炸时合计造成<style=cIsDamage>180%</style>伤害。",
 
 	"ITEM_TREASURECACHE_NAME": "生锈的钥匙",
-	"ITEM_TREASURECACHE_PICKUP": "找到上锁的破箱子，里面会有好东西！",
+	"ITEM_TREASURECACHE_PICKUP": "找到上锁的锈蚀盒子，里面会有好东西！",
 
 	"ITEM_TREASURECACHE_DESC": "一个装有道具的 <style=cIsUtility>隐藏箱子</style> 会出现在 <style=cIsUtility>每一关卡</style> 的随机位置，<style=cStack>(每个道具递增提高装备稀有度)</style>。",
 	"ITEM_TREASURECACHE_LORE" : "送货订单：钥匙\r\n跟踪编码：12××××××\r\n预计送达日期：2056年1月21日\r\n送货优先级：标准\r\n送货地址：地球，德鲁伊山社区，|||||||\r\n送货详情：\r\n\r\n我完全不相信UESC，他们的保险箱？那就是个辣鸡，到处都是数据溢出和后门，我有个表兄在他们工厂干活，他们的箱子老是发生各种奇奇怪怪的故障。我在拍卖会上见过很多他们的箱子，大多是别人不小心丢了还没人认领的，你只要愿意付钱，它就能当场自己打开，这不来搞笑的吗？\r\n\r\n不管怎样，我要给你的不过是我之前说的我要做的事，但它实在太重要以至于我不得不让它离UESC的那些破安保远一点，所以我把这个钥匙给了你，并把上锁的箱子给了Margaret，就像是双重认证那样，一旦你收到钥匙就回信给我。\r\n",
 	
 	"ITEM_BOSSDAMAGEBONUS_NAME": "穿甲弹",
-	"ITEM_BOSSDAMAGEBONUS_PICKUP": "攻击BOSS增加额外伤害。",
-	"ITEM_BOSSDAMAGEBONUS_DESC": "对 <style=cIsUtility>BOSS</style> 额外造成 <style=cIsDamage>20%</style> <style=cStack>(每个道具递 +10%)</style> 伤害。",
+	"ITEM_BOSSDAMAGEBONUS_PICKUP" : "对Boss造成额外伤害。",
+	"ITEM_BOSSDAMAGEBONUS_DESC" : "对头目额外造成<style=cIsDamage>20%</style>的伤害<style=cStack>（每层增加20%）</style>。",
 	
 	"ITEM_SPRINTARMOR_NAME": "玫瑰圆盾",
 	"ITEM_SPRINTARMOR_PICKUP": "冲刺时减少受到的伤害。",
@@ -233,19 +236,19 @@
 	
 	"ITEM_ELEMENTALRINGS_NAME" : "Kjaro与Runald星环",
 	"ITEM_ICERING_NAME" : "Runald星环",
-	"ITEM_ICERING_PICKUP" : "攻击敌人有几率对敌人产生爆裂冰霜。",
-	"ITEM_ICERING_DESC" : "击中有 <style=cIsDamage>8%</style> 几率对敌人释放一个 <style=cIsDamage>爆裂冰霜</style>, <style=cIsUtility>减速</style> 敌人 <style=cIsUtility>80%</style> 并造成 <style=cIsDamage>250%</style> 的伤害 <style=cStack>(每个道具递 +125%)</style>。\n\n<style=cStack>实际几率：8% ×伤害系数</style>\n\r\n\r 伤害系数请参考“眩晕手雷”",
+	"ITEM_ICERING_PICKUP" : "命中时有一定几率用符文寒冰爆裂攻击一名敌人。",
+	"ITEM_ICERING_DESC" : "命中时有<style=cIsDamage>8%</style>机率用<style=cIsDamage>符文寒冰爆裂</style>攻击一名敌人，使其<style=cIsUtility>减速</style><style=cIsUtility>80%</style>并合计造成<style=cIsDamage>250%</style><style=cStack>（每层增加125%）</style>的伤害。",
 	"ITEM_ICERING_LORE": "‘记忆是否会消逝，\r\n大海是否漫过云层，\r\n你能否为我带来炙热的爱？\r\n你能否与我共赴死亡？’\r\n\r\n——《Io与Europa的友谊》\r\n",
 
 	"ITEM_FIRERING_NAME" : "Kjaro星环",
-	"ITEM_FIRERING_PICKUP" : "攻击敌人有几率对敌人生成烈焰旋风。",
-	"ITEM_FIRERING_DESC" : "击中有 <style=cIsDamage>8%</style> 几率对敌人释放一个 <style=cIsDamage>烈焰旋风</style>, 造成 <style=cIsDamage>500%</style> 伤害 <style=cStack>(每个道具递 +250%)</style>。\n\n<style=cStack>实际几率：8% ×伤害系数</style>\n\r\n\r 伤害系数请参考“眩晕手雷”",
+	"ITEM_FIRERING_PICKUP" : "命中时有一定几率用符文火焰旋风攻击一名敌人。",
+	"ITEM_FIRERING_DESC" : "命中时有<style=cIsDamage>8%</style>的机率用<style=cIsDamage>符文火焰旋风</style>攻击一名敌人，合计造成<style=cIsDamage>500%</style><style=cStack>（每层增加250%）</style>的伤害。",
 	"ITEM_FIRERING_LORE" : "‘激情是否会消逝，\r\n飞蛾是否扑灭火烛，\r\n你能否为我带来永恒的爱？\r\n你能否与我共赴死亡？’\r\n\r\n——《Io与Europa的友谊》\r\n",
 	
 	"ITEM_SLOWONHIT_NAME": "时光珠",
 	"ITEM_SLOWONHIT_PICKUP": "对被击中的敌人减速。",
-	"ITEM_SLOWONHIT_DESC": "对被击中的敌人 <style=cIsUtility> 减缓 <style=cIsUtility>-60% 的移动速度</style></style>，持续 <style=cIsUtility>1秒</style> <style=cStack>(每个道具递 +1秒)</style>。",
-	"ITEM_SLOWONHIT_LORE": "送货订单：计时玩具\r\n跟踪编码：99××××××\r\n预计送达日期：2066年3月3日\r\n送货优先级：优先派送\r\n送货地点：水星，Yustik Plaza，9042 Pvt. Drive\r\n送货详情：\r\n\r\n你已经长大了吗？那个暑假仿佛是刚刚结束一般——但自那起已经过了10年了，不是吗？随着年龄的增长，时间仿佛变得越来越快，我很难有时间去记住更多的事，去巩固我自己的记忆。我都不知道我啥时候25岁的，我怎么会把整整一年给忘掉呢？\r\n\r\n总之，我在水星的一个饰品商店找到了这个，一个计时玩具，卖家说了一堆关于狭义相对论，总之就是质量关于速度畸变什么的balabalabala，反正我是没怎么听懂，哈哈。简单点说就是它可以把周围的时间变慢，嗯应该是这样。\r\n\r\n总之，我为我自己买了这个东西，10年后到货，一个我给我自己的礼物，提醒我自己要在有生之年放平心境，慢下来，多留下一些回忆。10年会过的很快的，但要把这10年的一切都记住喔！你必须为自己的人生做点什么！\r\n",
+	"ITEM_SLOWONHIT_DESC" : "命中敌人时有机率使其<style=cIsUtility>减速</style><style=cIsUtility>60%</style>，持续<style=cIsUtility>2秒</style><style=cStack>（每层增加2秒）</style>。",
+	"ITEM_SLOWONHIT_LORE": "送货订单：时光珠\r\n跟踪编码：99××××××\r\n预计送达日期：2066年3月3日\r\n送货优先级：优先派送\r\n送货地点：水星，Yustik Plaza，9042 Pvt. Drive\r\n送货详情：\r\n\r\n你已经长大了吗？那个暑假仿佛是刚刚结束一般——但自那起已经过了10年了，不是吗？随着年龄的增长，时间仿佛变得越来越快，我很难有时间去记住更多的事，去巩固我自己的记忆。我都不知道我啥时候25岁的，我怎么会把整整一年给忘掉呢？\r\n\r\n总之，我在水星的一个饰品商店找到了这个，一个计时玩具，卖家说了一堆关于狭义相对论，总之就是质量关于速度畸变什么的balabalabala，反正我是没怎么听懂，哈哈。简单点说就是它可以把周围的时间变慢，嗯应该是这样。\r\n\r\n总之，我为我自己买了这个东西，10年后到货，一个我给我自己的礼物，提醒我自己要在有生之年放平心境，慢下来，多留下一些回忆。10年会过的很快的，但要把这10年的一切都记住喔！你必须为自己的人生做点什么！\r\n",
 
 	"ITEM_EXTRALIFE_NAME": "Dio最好的朋友",
 	"ITEM_EXTRALIFE_PICKUP": "假死一次",
@@ -271,13 +274,42 @@
 	"ITEM_INCREASEHEALING_NAME": "回春机",
 	"ITEM_INCREASEHEALING_PICKUP": "双倍生命值回复量",
 	"ITEM_INCREASEHEALING_DESC": "提高所有 <style=cIsHealing>回复 +100%</style> <style=cStack>(每个道具递 +100%)</style>。",
+	"ITEM_INCREASEHEALING_LORE" : "\"自然能够对物质进行滋养。思想，可以通过坚持与专注进行养护。灵魂却只能......也只能通过幻象治愈。\"\r\n-无名威尼斯僧侣\r\n",
 
 	"ITEM_REPEATHEAL_NAME" : "起死回生",
 	"ITEM_REPEATHEAL_PICKUP" : "双倍治疗量……<color=#FF7F7F>\但治疗速度降低。</color>\n",
 	"ITEM_REPEATHEAL_DESC" : "提高 <style=cIsHealing>恢复 +100%</style> <style=cStack>(每个道具递 +100%)</style>，<style=cIsHealing>但治疗速度降低</style>，每秒的 <style=cIsHealing>最大治疗量</style> 为你 <style=cIsHealing>生命值</style> 的 <style=cIsHealing>10%</style> <style=cStack>(每个道具递 -50%)</style>。",	
 
 	"ITEM_AUTOCASTEQUIPMENT_NAME": "溺水手势",
-	"ITEM_AUTOCASTEQUIPMENT_PICKUP": "大幅度减少装备的冷却时间……<color=#FF7F7F>但是会自动使用它。</color>",
-	"ITEM_AUTOCASTEQUIPMENT_DESC": "<style=cIsUtility>减少 <style=cIsUtility>50%</style> <style=cStack>(每个道具递 +50%)</style> 主动装备的冷却时间</style>，但是当 <style=cIsUtility>冷却时间</style> 完成时强制自动 <style=cIsUtility>激活</style>。",
+	"ITEM_AUTOCASTEQUIPMENT_PICKUP" : "极大地降低装备的冷却时间……<color=#FF7F7F>但装备会自动激活。</color>",
+	"ITEM_AUTOCASTEQUIPMENT_DESC" : "<style=cIsUtility>使装备冷却时间减少</style><style=cIsUtility>50%</style><style=cStack>（每层增加50%）</style>。但装备会在<style=cIsUtility>冷却时间</style>结束时被迫自动<style=cIsUtility>激活</style>。",
+	
+	"ITEM_EXECUTELOWHEALTHELITE_NAME" : "陈旧断头台",
+	"ITEM_EXECUTELOWHEALTHELITE_PICKUP" : "立即杀死低生命值精英怪物。",
+	"ITEM_EXECUTELOWHEALTHELITE_DESC" : "立即杀死生命值低于<style=cIsHealth>20%<style=cStack>（每层增加5%）</style>的精英怪物。</style>",
+	
+	"ITEM_ENERGIZEDONEQUIPMENTUSE_NAME" : "战争号角",
+	"ITEM_ENERGIZEDONEQUIPMENTUSE_PICKUP" : "激活装备使你获得攻击速度加成。",
+	"ITEM_ENERGIZEDONEQUIPMENTUSE_DESC" : "激活装备可使你获得<style=cIsDamage>+70%攻击速度加成</style>，持续<style=cIsDamage>8秒</style><style=cStack>（每层增加4秒）。</style>",
+	"ITEM_ENERGIZEDONEQUIPMENTUSE_LORE" : "\"2019之战，虽然只持续了短短的一年，但却是人类历史上最血腥残酷的战争。在经过了整年的战斗之后，形势愈发严峻，很多起义军集团开始依靠传统与历史来维持士气。\r\n\r\n上图中的战争号角就是北方之拳起义军用来鼓舞士气的用具，而且还兼具战术用途。\"\r\n\r\n国家WW19博物馆展览",
+  
+	"ITEM_BARRIERONOVERHEAL_NAME" : "庇护",
+	"ITEM_BARRIERONOVERHEAL_PICKUP" : "过量治疗会使你获得一道临时屏障。",
+	"ITEM_BARRIERONOVERHEAL_DESC" : "过量治疗会使你获得一道<style=cIsHealing>临时屏障</style>，屏障最多可阻挡相当于<style=cIsHealing>20%<style=cStack>（每层增加20%）</style></style><style=cIsHealing>最大生命值的伤害。</style>",
+ 
+	"ITEM_TONICAFFLICTION_NAME" : "强心剂副作用",
+	"ITEM_TONICAFFLICTION_PICKUP" : "<color=#FF7F7F>在不处于尖晶强心剂状态时降低全部属性。</color>",
+  
+	"ITEM_TITANGOLDDURINGTP_NAME" : "哈雷肯种子",
+	"ITEM_TITANGOLDDURINGTP_PICKUP" : "在传送器场景中召唤奥利雷奥尼特。",
+	"ITEM_TITANGOLDDURINGTP_DESC" : 	"在激活传送门时召唤<style=cIsDamage>奥利雷奥尼特</style>，它具有<style=cIsDamage>100%<style=cStack>（每层增加50%）</style>伤害</style>和<style=cIsHealing>100%<style=cStack>（每层增加100%）</style>生命值</style>。",
+  
+	"ITEM_SPRINTWISP_NAME" : "小门徒",
+	"ITEM_SPRINTWISP_PICKUP" : "奔跑时发射追踪幽魂。",
+	"ITEM_SPRINTWISP_DESC" : "发射一道<style=cIsDamage>追踪幽魂</style>，造成<style=cIsDamage>100% <style=cStack>（每层增加100%）</style>的伤害。</style>奔跑时，每0.5秒发射一次。",
+  
+	"ITEM_BARRIERONKILL_NAME" : "黄晶胸针",
+	"ITEM_BARRIERONKILL_PICKUP" : "达成击杀可获得临时屏障。",
+	"ITEM_BARRIERONKILL_DESC" : "击杀时可获得一道<style=cIsHealing>临时屏障</style>，相当于增加<style=cIsHealing>20<style=cStack>点生命值（每层增加20）</style></style>。",
 	}
 }
